@@ -4,7 +4,6 @@
 ## Table of Contents
 
 * [Introduction](#Introduction)
-* [Installation](#Installation)
 * [Libraries and Technologies Used](#Libraries)
 * [Usage](#Usage)
 * [License](#License)
@@ -13,11 +12,14 @@
 
 ## Introduction
 
-## Installation
+As a wealth focued individual I want to be able to track my withdrawals and deposits with or without a data/internet connection so that my account balance is accurate whenever I check.
 
 ## Technologies used 
+VS code, node, express, morgan,  mongodb
 
 ## Usage
+
+Click on this link to use Application https://momoneymoproblems.herokuapp.com/
 
 ## License
 
@@ -39,3 +41,5 @@
 * Link: https://momoneymoproblems.herokuapp.com/
 
 ## link to GitHub 
+
+* Link: https://github.com/spental/moremoneymoreproblems
