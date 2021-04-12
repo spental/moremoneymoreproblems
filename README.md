@@ -21,15 +21,6 @@
 
 ![Sign up page](./pictures/SignUp.png)
 
-![Log in page](./pictures/Login.png)
-
-![Books page](./pictures/BooksPage1.png)
-
-![Add Book function](./pictures/AddBook.png)
-
-![Members page](./pictures/MembersPage1.png)
-
-![Add Member Function](./pictures/AddMember.png)
 
 ## License
 
@@ -37,8 +28,10 @@
 
 ## Screenshot
 
-![image](./pics/cluster.png)
-![image](./pics/dashboard.png)
+![Atlas launch](./pics/cluster.png)
+![atals dashboard](./pics/dashboard.png)
+![info filled out ](./pics/aftermoneyisadded.png)
+
 
 ## Link
 
