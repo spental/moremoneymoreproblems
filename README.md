@@ -19,9 +19,6 @@
 
 ## Usage
 
-![Sign up page](./pictures/SignUp.png)
-
-
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,7 +28,6 @@
 ![Atlas launch](./pics/cluster.png)
 ![atals dashboard](./pics/dashboard.png)
 ![info filled out ](./pics/aftermoneyisadded.png)
-
 
 ## Link
 
